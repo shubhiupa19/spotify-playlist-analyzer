@@ -36,7 +36,7 @@ cd spotify-playlist-analyzer
 **### Install Dependencies**
 ```bash
 npm install
-
+```
 ---
 ### Set Up Environment Variables
 Create a .env file in the root of the project
@@ -44,9 +44,9 @@ Create a .env file in the root of the project
 NEXTAUTH_URL=http://localhost:3000
 SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
-
+```
 ### Run the App
 ```bash
 npm run dev
-
+```
 Visit the app in your browser at http://localhost:3000.
