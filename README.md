@@ -1,4 +1,4 @@
-# Spotify Playlist Analyzer 🎵
+# Spotify Playlist Analyzer 
 
 Analyze your favorite Spotify playlists and gain insights into track durations and other stats! This app fetches playlist details using the Spotify Web API and provides useful metrics, like average track duration.
 
