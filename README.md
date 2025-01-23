@@ -32,10 +32,12 @@ Analyze your favorite Spotify playlists and gain insights into track durations a
 git clone https://github.com/your-username/spotify-playlist-analyzer.git
 cd spotify-playlist-analyzer
 
+---
 **### Install Dependencies**
 ```bash
 npm install
 
+---
 ### Set Up Environment Variables
 Create a .env file in the root of the project
 ```bash
